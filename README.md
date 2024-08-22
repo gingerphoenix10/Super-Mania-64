@@ -84,6 +84,18 @@ hitDistanceDOWN = 100
 
 By [**clicking here**](https://github.com/gingerphoenix10/Super-Mania-64/releases).
 
+## How can I make a pack?
+
+As the mod is still in development, packs aren't done yet, so there are currently no tools for making charts yet.
+
+If you *really* want to make a pack, the main.lua file is the same in every pack, other than the name at the top of the of each file. The main.lua files *does* get updates a lot though, so it may get outdated within a few updates.
+The LEVEL_NAME.lua files just define the chart table to CHART_NAME. The chart's *format* is pretty easy to understand by looking at existing packs. It's a table with the keys as times in milliseconds, and the value as a table of notes that spawn at that millisecond.
+The notes have 2 values: Lane and Speed. Lane is a number from 1-4, that changes the... lane the note spawns on
+The speed value isn't done yet, but will multiply the note's falling pixels per second by the value.
+The Levels.lua file just contains a table called "Levels", that stores the CHART_NAME values.
+
 ## Need more help?
 
 Message me (preferably on discord) or ping me, and I’ll try and help. I use the name “@gingerphoenix10” on everything.
+Alternatively, if it's a bug with the mod, you can also either submit an issue, or a pull request it you know what the issue is.
+Contributions always appreciated:)
