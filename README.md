@@ -2,7 +2,7 @@
 
 ## Installation
 
-[**DOWNLOAD HERE**](#)
+[**DOWNLOAD HERE**](https://github.com/gingerphoenix10/Super-Mania-64/releases)
 
 You can install Super Mania 64! like any other sm64coopdx mod. Drag and drop the folder from `Super Mania 64.zip` either into your game’s mod folder, the mods folder in `%appdata%\sm64ex-coop`, or you should be able to drag and drop it onto the main menu.
 
