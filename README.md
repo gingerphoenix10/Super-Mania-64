@@ -97,5 +97,7 @@ The Levels.lua file just contains a table called "Levels", that stores the CHART
 ## Need more help?
 
 Message me (preferably on discord) or ping me, and I’ll try and help. I use the name “@gingerphoenix10” on everything.
+
 Alternatively, if it's a bug with the mod, you can also either submit an issue, or a pull request it you know what the issue is.
-Contributions always appreciated:)
+
+Contributions always appreciated :)
